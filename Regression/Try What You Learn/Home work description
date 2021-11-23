@@ -1,0 +1,5 @@
+You have dataset has 3 features and target class Y.
+features area , bedrooms , age and your target is price.
+First dataset to train model (home price.xlsx).
+Second dataset to test your model (home price test.xlsx).
+Note: try to use google colab online IDE.
