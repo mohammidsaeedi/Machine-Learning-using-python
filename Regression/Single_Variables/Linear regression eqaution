@@ -2,4 +2,4 @@ Linear Regression equation  Y = a + bX
 b is the slope or gradient 
 X is input 
 y is the prediction value
-b is the intercept
+a is the intercept
