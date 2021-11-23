@@ -1,1 +1,6 @@
+Y = a + (b1 * X1) + (b2 * X2) + (b3 * X3)
 
+b1 is the slope or gradient for feature 1 
+X is input 1 
+y is the prediction value
+a is the intercept
