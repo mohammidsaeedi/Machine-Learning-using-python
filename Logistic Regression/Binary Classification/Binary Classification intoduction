@@ -1,0 +1,5 @@
+Binary classification is the task of classifying the elements of a set into two groups
+SO, Your y is 0 or 1 
+Or your y is Yes or No
+THis is called binary CLassificaion.
+Note: There is another type called Multi Classification.
