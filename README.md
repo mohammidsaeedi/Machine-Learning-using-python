@@ -9,4 +9,6 @@ By today, I finish from
 
 3 - Decision Tree
 
+4 - SVMs
+
 Thank You
