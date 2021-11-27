@@ -18,3 +18,13 @@ Versatile: different Kernel functions can be specified for the decision function
 For more about PCA [Link](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60).
 For more about Cross-validation [Link](https://scikit-learn.org/stable/modules/cross_validation.html).
 ```
+## Dataset Description
+```
+The dataset includes 244 instances that regroup a data of two regions of Algeria,namely the Bejaia region located in the northeast of Algeria and the Sidi Bel-abbes region located in the northwest of Algeria.
+
+122 instances for each region.
+
+The period from June 2012 to September 2012.
+The dataset includes 11 attribues and 1 output attribue (class)
+The 244 instances have been classified into fire (138 classes) and not fireâ€ (106 classes) classes.
+```
