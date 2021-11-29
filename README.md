@@ -11,4 +11,6 @@ By today, I finished:
 
 4 - SVMs
 
+5 - Random Forest
+
 Thank You
