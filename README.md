@@ -3,18 +3,18 @@
 
 By today, I finished:
 
-1 - Regression [Regression](Regression)
+1 - [Regression](Regression)
 
-2 - Loggistic Regression
+2 - [Loggistic Regression](https://github.com/mohammidsaeedi/Machine-Learning-using-python/tree/main/Logistic%20Regression)
 
-3 - Decision Tree
+3 - [Decision Tree](https://github.com/mohammidsaeedi/Machine-Learning-using-python/tree/main/Decision%20Tree)
 
-4 - SVMs
+4 - [Support vector machines](SVMs)
 
-5 - Random Forest
+5 - [Random Forest](https://github.com/mohammidsaeedi/Machine-Learning-using-python/tree/main/Random%20Forest)
 
-6 - Clustering
+6 - [Clustering](Clustering)
 
-7 - Naive Bayes
+7 - [Naive Bayes](https://github.com/mohammidsaeedi/Machine-Learning-using-python/tree/main/Naive%20Bayes)
 
-Thank You
+## Thank You
