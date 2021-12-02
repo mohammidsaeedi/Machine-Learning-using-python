@@ -1,9 +1,9 @@
 # Machine-Learning-using-python
-Here I will share my machine learning experiences. I will use python for coding.
+## Here I will share my machine learning experiences. I will use python for coding.
 
 By today, I finished:
 
-1 - Regression
+1 - Regression [Regression](Regression)
 
 2 - Loggistic Regression
 
