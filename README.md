@@ -13,4 +13,8 @@ By today, I finished:
 
 5 - Random Forest
 
+6 - Clustering
+
+7 - Naive Bayes
+
 Thank You
