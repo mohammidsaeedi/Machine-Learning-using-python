@@ -21,4 +21,8 @@
 
 7. [Naive Bayes](https://github.com/mohammidsaeedi/Machine-Learning-using-python/tree/main/Naive%20Bayes)
 
+
+
+[Supervised vs. Unsupervised Learning: What’s the Difference?](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/supervised%20vs%20unsupervised.pdf)
+
 ## Thank You
