@@ -1,1 +1,1 @@
-Hello
+In data science, we often think about how to use data to make predictions on new data points. This is called “supervised learning.” Sometimes, however, rather than ‘making predictions’, we instead want to categorize data into buckets. This is termed “unsupervised learning.” [For More Info](https://realpython.com/k-means-clustering-python/)
