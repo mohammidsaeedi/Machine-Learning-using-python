@@ -26,6 +26,8 @@ NLP second terms:
 -	Latent Dirichlet allocation
 
 NLP steps:
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture1.png)
  
 -	Phonological analysis
 -	Lexical analysis
@@ -40,8 +42,13 @@ NLP Approaches:
 
 
 Parsing approaches is process of determining syntactic structures and analyzing constituent words based on underlying grammar.
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture2.png)
  
 Parsing phases:
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture3.png)
+
  
 Parsing approaches:
 -	Statistical
@@ -49,21 +56,29 @@ Parsing approaches:
 -	Machine learning based
 
 Parsing types:
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture4.png)
  
 Top -down Parser is based on left-most derivation.
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture5.png)
  
 Bottom-up Parser is based on right-most derivation.
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture6.png)
  
 
 Corpus or corpora:
 -	Large and structured set of text typically presented in electronic form
 -	Body of written or spoken material on which linguistic analysis is performed>
 -	Provides evidence of how language is used in actual situations.
+
 Type of corpus 
 -	General corpus
 -	Historical corpus
 -	Learner corpus
 -	Specialized corpus
+
 Corpus Linguistic:
 -	Principles and practice of using corpus 
 -	Methodology consisting of large number of related methods
@@ -75,9 +90,13 @@ Corpus Linguistic:
   2-	Quantitative and qualitative analytical techniques
 
 Corpus Linguistic Techniques:
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture7.png)
  
 Perspective of corpus
 Annotation – Abstraction – Analysis 
+
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture8.png)
  
 Advantages of using corpus
 -	Provides reliable and consistent analysis through the use of computers
@@ -106,12 +125,15 @@ Advantages of NLTK:
 - Platform for building python programs to work with human language data
 - Helps with tasks such as Corpus – Categorizing text – analyzing linguistic structure 
 - Provides easy to use interfaces for Corpus and Lexical resources
-- For more information please see site
-- Tokenization one of the most important tasks in NLP and it is major role in the process of Lexical analysis
+- For more information please see https://sunscrapers.com/blog/8-best-python-natural-language-processing-nlp-libraries/#2_TextBlob
+
+Tokenization one of the most important tasks in NLP and it is major role in the process of Lexical analysis
+
+ ![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture9.png)
  
 Tokenization type:
  
-
+![This is an image](https://github.com/mohammidsaeedi/Machine-Learning-using-python/blob/main/NLP/img/Picture10.png)
 
 Main Components of   LP:
 -	Entity extraction:
