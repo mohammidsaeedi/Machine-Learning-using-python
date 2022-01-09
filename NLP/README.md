@@ -69,8 +69,10 @@ Corpus Linguistic:
 -	Methodology consisting of large number of related methods
 -	Draws on large amounts of authentic and naturally occurring language
 -	Uses 
-1-	Computer for analysis
-2-	Quantitative and qualitative analytical techniques
+
+  1-	Computer for analysis
+  
+  2-	Quantitative and qualitative analytical techniques
 
 Corpus Linguistic Techniques:
  
@@ -84,19 +86,28 @@ Advantages of using corpus
 -	Manages data using computers and provides linguistic analysis using linguists
 
 NLP Libraries:
+
 NLTK:
+
 1-	Gensim
+
 2-	Sckite-learn
+
 3-	spaCy
+
 4-	CoreNLP
+
 5-	Polyglot
+
 6-	PyNLPI
+
 Advantages of NLTK:
-Platform for building python programs to work with human language data
-Helps with tasks such as Corpus – Categorizing text – analyzing linguistic structure 
-Provides easy to use interfaces for Corpus and Lexical resources
-For more information please see site
-Tokenization one of the most important tasks in NLP and it is major role in the process of Lexical analysis
+
+- Platform for building python programs to work with human language data
+- Helps with tasks such as Corpus – Categorizing text – analyzing linguistic structure 
+- Provides easy to use interfaces for Corpus and Lexical resources
+- For more information please see site
+- Tokenization one of the most important tasks in NLP and it is major role in the process of Lexical analysis
  
 Tokenization type:
  
@@ -104,34 +115,55 @@ Tokenization type:
 
 Main Components of   LP:
 -	Entity extraction:
+
 1-	Syntactic analysis
+
 2-	Semantic analysis
+
 3-	Sentiment analysis 
+
 4-	Pragmatic analysis
 
 Syntactic analysis is:
+
 Proper ordering of words
+
 Deals with structural roles of words in sentences.
+
 Includes:
+
 1-	Parts of speech tagging 
+
 2-	Chunking
+
 3-	Sentence assembling
 
 Semantic analysis is:
+
 Deals with lexical semantic
+
 Extract entities and understand syntaxes
+
 Concludes meanings of sentences in context free
 
 Sentiment analysis is:
+
 Understand the sentiment behind every sentence also known as opinion mining.
+
 Include:
+
  Emotions – Opinions – Attitudes
 
 Pragmatic analysis is:
+
 Uses the context of utterance
+
 Deals with intentions like
+
 Criticize – Inform – Promise – Request
+
 Main objective of Pragmatic analysis is interprets the meaning in terms of context of use , unloke semantics.
+
 
 
 
