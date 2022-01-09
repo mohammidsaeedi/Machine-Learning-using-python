@@ -1,4 +1,5 @@
 NLP
+
 NLP stand for Natural language processing, it is study of input provided in natural language, it’s converts input into useful form of representations, ability of computer programs to understand natural language, and capable of processing and analyzing large amount of natural language data.
 Objective of NLP to use AI and ML to let machine to understand human language.
 Some Challenges in NLP:
